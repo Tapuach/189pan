@@ -1,22 +1,19 @@
-- 签到时间 2025-10-13 21:45:08 [![签到状态](https://github.com/Tapuach/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Tapuach/189pan/actions/workflows/main.yml)
+- 签到时间 2025-10-14 10:43:07 [![签到状态](https://github.com/Tapuach/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Tapuach/189pan/actions/workflows/main.yml)
 - # 天翼云盘自动签到抽奖程序
 - 
 - ## 执行概览
-- - **启动时间**: 2025-10-13 21:45:08
+- - **启动时间**: 2025-10-14 10:43:07
 - - **账户数量**: 1 个
 - 
 - ## 账户1
+- 登录过程出错: HTTPSConnectionPool(host='m.cloud.189.cn', port=443): Max retries exceeded with url: /udb/udb_login.jsp?pageId=1&pageKey=default&clientType=wap&redirectURL=https://m.cloud.189.cn/zhuanti/2021/shakeLottery/index.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdf972f28e0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
 - ### 执行结果
-- - **登录状态**: 登录成功
-- - **签到结果**: 已签到，获得74M空间
-- - **抽奖结果**:
--   - ❌ 第1次: 抽奖失败，次数不足
--   - ❌ 第2次: 抽奖失败，次数不足
--   - ❌ 第3次: 抽奖失败，次数不足
+- - **登录状态**: 登录失败
+- - **签到结果**: 
 - 
 - ---
 - ## 执行统计
-- - **结束时间**: 2025-10-13 21:47:48
-- - **运行时长**: 159.67 秒
+- - **结束时间**: 2025-10-14 10:47:36
+- - **运行时长**: 268.67 秒
 - 
 - ✅ **所有账户处理完成！**
