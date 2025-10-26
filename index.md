@@ -1,19 +1,22 @@
-- 签到时间 2025-10-25 21:37:42 [![签到状态](https://github.com/Tapuach/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Tapuach/189pan/actions/workflows/main.yml)
+- 签到时间 2025-10-26 10:52:08 [![签到状态](https://github.com/Tapuach/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Tapuach/189pan/actions/workflows/main.yml)
 - # 天翼云盘自动签到抽奖程序
 - 
 - ## 执行概览
-- - **启动时间**: 2025-10-25 21:37:42
+- - **启动时间**: 2025-10-26 10:52:09
 - - **账户数量**: 1 个
 - 
 - ## 账户1
-- 登录过程出错: HTTPSConnectionPool(host='open.e.189.cn', port=443): Max retries exceeded with url: /api/logbox/oauth2/autoLogin.do?appId=cloud&version=v1.1&clientType=20010&format=redirect&paras=64C9C81B0D66DA50B2FEAF9F93D8CEA4726BE8C6619F0A33707F74D0A970F9FF5CF12CB9DAB2E67A497B4E960F0B3109FA569E68AAEB8CF2712B25648C98AABDC7CF73A60D8A6CA96E5C46B85F231857BF71A72CB71EE13F29DCF5F82491CFFCF9626F96ECF5C8BC802160B1A923D145B5E9EA3E679E5551842FD8BD63BE08419139568DEBF5415FDC7177AFB5926ECF1EC0CBAB8DAC6EB9DB2019E0C0CB8236217AC73F7ADB9DCD379D8C0E2186CFC64155ED59D9DE7AD7D8E7A6BD7EDE80D1F08E04D8DBF2AFA67D7CB3F7E76E563745C4EDF2CEBCFA7420930E3C8199FC2F209D4B5BA1D3E9B8839EB7BB98DD2F1DBB3219C5AABF4F5C8BB76F5B3F212F6CFB4B49DC58350E9AEE745C4CDD3EE7063B39CC615575A13F139735CF235AE4226B1F701B605811892F2B692EA0636DB5C75E5FFB53C5C251EFDC975ABD5B7E40A2CA6EB0C994F6F14887A9829E80486827EADCD9FED161B354660CA0C19C0490884044B6FE372C5119233479E9F2D47BE808273A925DF6C65AD985E284EBFE0C44F4506298E481ECA309DDFC117352E4E38EBE257C8543F2B40604F2BEF37F6ECB1C66841AC94A34907B389B6D8091E3A681E46B447DC17D30EDD5C9B691E49934D9F870BEEACBEA9BB77B63F14C54929BCA49A17BB620E4CEDFEAEB29102257372FC5E3F37D97AEC10243D1883964D35BFD0F157E893732504A7982C3812A12D3A466037AA19EB0186326855E1CC00A631171A3DD23315B&sign=8E7A6FDEE56AF303A6FBA493CD26987259D2D17E (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7feacd5442e0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
 - ### 执行结果
-- - **登录状态**: 登录失败
-- - **签到结果**: 
+- - **登录状态**: 登录成功
+- - **签到结果**: 签到成功，获得28M空间
+- - **抽奖结果**:
+-   - 🎉 第1次: 抽奖成功，获得天翼云盘50M空间
+-   - ❌ 第2次: 抽奖失败，次数不足
+-   - ❌ 第3次: 抽奖失败，次数不足
 - 
 - ---
 - ## 执行统计
-- - **结束时间**: 2025-10-25 21:42:19
-- - **运行时长**: 277.57 秒
+- - **结束时间**: 2025-10-26 10:52:27
+- - **运行时长**: 18.74 秒
 - 
 - ✅ **所有账户处理完成！**
